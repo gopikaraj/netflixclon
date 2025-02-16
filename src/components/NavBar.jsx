@@ -24,11 +24,11 @@ const NavBar= () =>{
                     <img width={45} height={"auto"} src="https://static.vecteezy.com/system/resources/previews/024/273/839/original/netflix-logo-transparent-free-png.png" alt="Logo" />
                 </div>
                 <div className="flex flex-1 justify-center max-sm:hidden ">
-                           <Link to="/sections/Movies/Ctg_001" smooth="true" duration={800} className="px-5 text-sm cursor-pointer text-white hover:underline">
+                           <Link to="/netflixclon/sections/Movies/Ctg_001" smooth="true" duration={800} className="px-5 text-sm cursor-pointer text-white hover:underline">
                                 Movies
                            </Link>
-                           <Link to="/sections/Series/Ctg_002" smooth="true" duration={800} className="px-5 text-sm cursor-pointer text-white hover:underline">Series</Link>
-                           <Link to="/sections/TV Shows/Ctg_003" smooth="true" duration={800} className="px-5 text-sm cursor-pointer text-white hover:underline">TV Shows</Link>
+                           <Link to="/netflixclon/sections/Series/Ctg_002" smooth="true" duration={800} className="px-5 text-sm cursor-pointer text-white hover:underline">Series</Link>
+                           <Link to="/netflixclon/sections/TV Shows/Ctg_003" smooth="true" duration={800} className="px-5 text-sm cursor-pointer text-white hover:underline">TV Shows</Link>
                     {/* {navItem.map((nav)=>(
                         <div key={nav} className="px-5 text-sm cursor-pointer text-white hover:underline">
                            <button type="button">{nav}</button> 
