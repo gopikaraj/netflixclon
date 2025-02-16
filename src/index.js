@@ -11,9 +11,9 @@ import SectionWrapper from './components/SectionWrapper';
 export default function RoutingModule(){
   return (
     <Routes>
-      <Route path='/' element={<App/>}/>
-      <Route path='/home' element={<Hero/>}/>
-      <Route path='/sections/:param/:id' element={<SectionWrapper/>} />  
+      <Route path='/netflixclon/' element={<App/>}/>
+      <Route path='/netflixclon/home' element={<Hero/>}/>
+      <Route path='/netflixclon/sections/:param/:id' element={<SectionWrapper/>} />  
     </Routes>
   )
 }
