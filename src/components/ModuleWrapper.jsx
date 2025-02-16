@@ -71,7 +71,7 @@ const ModuleWrapper = (prop) => {
                             </div>
                             {/* Home */}
                             <div className="px-5 hidden md:flex">
-                                <Link to="/home">
+                                <Link to="/netflixclon/home">
                                 <svg
                                     xmlns="http://www.w3.org/2000/svg"
                                     viewBox="0 0 24 24"
