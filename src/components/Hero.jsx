@@ -49,7 +49,7 @@ const Hero = () =>{
                     <span id="anime" className="opacity-0">etflix</span>
                 </p>
                 <div id="sub" className="flex flex-col text-white text-l sm:text-xl items-center justify-center text-center  opacity-0 sub"> 
-                    <div className="sub text-white text-base py-10 px-10 sm:px-20">This project, which was created using React Js technology for self-learning purposes, employs scrollTrigger to move the section below and the GSAP library to animate the term "NetFlix" in the Hero section. The project's CSS framework is called Tailwind CSS. <br/> <span className="note">**The majority of the features are still in development, therefore you might not find them usable. When it's finished, these will be updated.</span> </div>
+                    <div className="sub text-white text-base py-10 px-10 sm:px-20">This project was created for self-learning using React Js technology. The "NetFlix" headline in the Hero section and the scroll control for the section below are animated using the GSAP library and the Tailwind CSS framework. <br/> <span className="note">**The majority of the features are still in development, therefore you might not find them usable. When it's finished, these will be updated.</span> </div>
                 </div>
                 
 
