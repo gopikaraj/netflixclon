@@ -1,0 +1,547 @@
+{
+    "data":[
+        {
+            "Cateogry":[
+                {
+                "id": "C1", 
+                "cateogry_name":"Movies",
+                "List":[
+                    {
+                        "listId":"mv001",
+                        "Title":"Kishkindha Kaandam",
+                        "Year":2024,
+                        "Duration":"2h 13m",
+                        "Rating":4,
+                        "Director":"Dinjith Ayyathan",
+                        "Actors":[
+                            {
+                                "Name": "Asif Ali",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/asif-ali-13839-1658319936.jpg"
+                            }, 
+                            {
+                                "Name": "Aparna Balamurali",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/aparna-balamurali-1064392-1671107921.jpg"
+                            }, 
+                            {
+                                "Name": "Vijayaraghavan",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/vijayaraghavan-2469-1678250779.jpg"
+                            },
+                            {
+                                "Name": "Jagadeesh",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jagadeesh-1065631-1722754870.jpg"
+                            },{
+                                "Name": "Shebin Benson",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/shebin-benson-1076155-24-03-2017-13-42-34.jpg"
+                            }
+                        ],
+                        "genre-ids":[
+                            "G1",
+                            "G4",
+                            "G3"],
+                        "Languages":"Malayalam (Original), Tamil, Hindi",
+                        "Description":"Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances",
+                        "Asset":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kishkindha-kaandam-et00410024-1726051976.jpg",
+                        "Trailer":"https://imdb-video.media-imdb.com/vi997049881/1434659607842-pgv4ql-1725959293465.mp4?Expires=1737621818&Signature=VlQw7Qf5zfdgG1qSqsPSJn67Ly5oEWnir-qOJOoh86W39F5WVqixW-vIYvNywRfXGk7zIPUfIRbq1od2-X8bxm1dfhad3nb8bT6PcqUcQEU8uI3qkpiMnYQ6roDHxEQU5w-BZSV6uBPbZUBENuF0fxfWLwq7Vszb-9vWg9rSNJpIfcpuwoETUjjCFGlgPAYj0qmRDgMsKmiIXeQqbGJhdabXE38P0TH8wOqIUuOS4Zd3ZnpPhRc6n8S09DyKX1~edRH3wgsEjw4~pH0CC8yfy2v5Uk-YXklbuJcAPVo64tBrMt7ZNy4TIF-x8THKl-6yXGTMz2stiiooNYL7xaeAzg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                        "Certified":"UA16+"
+                    },
+                    {
+                        "listId":"mv002",
+                        "Title":"Pushpa 2- The Rule",
+                        "Year":2024,
+                        "Duration":"3h 21m",
+                        "Rating":3,
+                        "Director":"Sukumar",
+                        "Actors":[
+                            {
+                                "Name": "Allu Arjun",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/allu-arjun-125-03-10-2016-01-55-06.jpg"
+                            }, 
+                            {
+                                "Name": "Rashmika Mandanna",
+                                "Profile":"https://in.bmscdn.com/iedb/artist/images/website/poster/large/rashmika-mandanna-1076783-28-12-2016-12-20-39.jpg"
+                            }, 
+                            {
+                                "Name": "Fahadh Faasil",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/fahadh-faasil-37756-1661702033.jpg"
+                            },
+                            {
+                                "Name": "Jagapati Babu",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jagapati-babu-5809-1720595411.jpg"
+                            }
+                        ],
+                        "genre-ids":[
+                            "G1",
+                            "G2",
+                            "G8",
+                            "G3"],
+                        "Languages":"Telugu (Original), Malayalam, Hindi",
+                        "Description":"A smuggling kingpin faces off against a vengeful rival while expanding his empire. He manipulates politics, makes big deals, and navigates tense confrontations. A public apology leads to a dramatic showdown, ending with challenge.",
+                        "Asset":"https://m.media-amazon.com/images/M/MV5BNGZlNTFlOWMtMzUwNC00ZDdhLTk0MWUtOGZjYzFlOTBmNDdhXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_FMjpg_UX1000_.jpg",
+                        "Trailer":"https://imdb-video.media-imdb.com/vi1721157913/1434659607842-pgv4ql-1731923019170.mp4?Expires=1737623203&Signature=puphQnMQRjyUI5YQAS5FoXogS4vziUN1oHMueSNYHm03vvmExHr1wXmBo7UNB0uhgVSwMtOj5jxn1SaNh36aDmyAqzkWz0pyzqqPPhik5TrZeOkzI3qvMv6pjhiotdpQLgoIUdStNI7i2brAx-NE~ldXOUGsip9MhK~UU3LuyOPe4kb1xCKucTcqlXu982mYXjXDGp1xebxG9cy5GD0vdpks-VZOQlX8G-y4tyf~z8JaFPXS4r0BQ5GL-UDWeJWvsTjpOBRhXQD-I8xep1Bvt1GJxbTxeNRnUbxxtA1mHdksHjAStDqxI-7UJJt4ekOFFGRXTvaEI2Ws3BiKvea1jg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                        "Certified":"UA16+"
+                    },
+                    {
+                        "listId":"mv003",
+                        "Title":"Marco",
+                        "Year":2024,
+                        "Duration":"2h 25m",
+                        "Rating":4,
+                        "Director":"Haneef Adeni",
+                        "Actors":[
+                            {
+                                "Name": "Unni Mukundan",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/unni-mukundan-26728-1654236570.jpg"
+                            }, 
+                            {
+                                "Name": "Yukti Thareja",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/yukti-thareja-2029172-1688618076.jpg"
+                            }, 
+                            {
+                                "Name": "Kabir Duhan Singh",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/kabir-duhan-singh-1060607-1663070249.jpg"
+                            },
+                            {
+                                "Name": "Jagadeesh",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jagadeesh-1065631-1722754870.jpg"
+                            }
+                        ],
+                        "genre-ids":[
+                            "G1",
+                            "G2",
+                            "G3"],
+                        "Languages":"Malayalam (Original), Tamil, Telugu, Hindi",
+                        "Description":"Gangster Marco and the powerful Adat family, who dominate Kerala's gold mafia.",
+                        "Asset":"https://m.media-amazon.com/images/M/MV5BNTVmNDVhMDEtNDMyNy00NTY0LWJkNzEtY2E5ZTVlZDRmYWY3XkEyXkFqcGc@._V1_QL75_UX226.5_.jpg",
+                        "Trailer":"https://imdb-video.media-imdb.com/vi3065039129/1434659607842-pgv4ql-1728796572350.mp4?Expires=1737570929&Signature=H03bQ8BDJWRSQ95ajGJ8onzXrknZB~IvRp-PBEnXbyVfSYihU2syJ5wbPXzm1c3e6JFB9a2a~nWOl3fjFZUamnG47jeySkDlTnATSed4q~BWeoo~A7Ct0TU6J4euAFa3PzqLkuoQZVxrqO7~0idqX8KYe8NdqtAYhzGkeM12xTJZkj6s5V3cxX82KkmFJPfS0oLqM4Au~VvABUPfXuTrB4evztRbuThXy88-smGysa040ulDd1y2lt4cd~-Qzq8ur3T6i3kG6PZbdT9COD6SJxjhuUU6qLf19AYrxiVG31vdvAKo8ZBAl3HpVqDweDYuCvWVGEUq4CnqYBuzYIvwNQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                        "Certified":"UA18+"
+                    },
+                    {
+                        "Title":"Kishkindha Kaandam",
+                        "Year":2024,
+                        "Duration":"2h 13m",
+                        "Rating":4,
+                        "Director":"Dinjith Ayyathan",
+                        "Actors":[
+                            {
+                                "Name": "Asif Ali",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/asif-ali-13839-1658319936.jpg"
+                            }, 
+                            {
+                                "Name": "Aparna Balamurali",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/aparna-balamurali-1064392-1671107921.jpg"
+                            }, 
+                            {
+                                "Name": "Vijayaraghavan",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/vijayaraghavan-2469-1678250779.jpg"
+                            },
+                            {
+                                "Name": "Jagadeesh",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jagadeesh-1065631-1722754870.jpg"
+                            },{
+                                "Name": "Shebin Benson",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/shebin-benson-1076155-24-03-2017-13-42-34.jpg"
+                            }
+                        ],
+                        "genre-ids":[
+                            "G1",
+                            "G4",
+                            "G3"],
+                        "Languages":"Malayalam (Original), Tamil, Hindi",
+                        "Description":"Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances",
+                        "Asset":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kishkindha-kaandam-et00410024-1726051976.jpg",
+                        "Trailer":"https://imdb-video.media-imdb.com/vi997049881/1434659607842-pgv4ql-1725959293465.mp4?Expires=1737621818&Signature=VlQw7Qf5zfdgG1qSqsPSJn67Ly5oEWnir-qOJOoh86W39F5WVqixW-vIYvNywRfXGk7zIPUfIRbq1od2-X8bxm1dfhad3nb8bT6PcqUcQEU8uI3qkpiMnYQ6roDHxEQU5w-BZSV6uBPbZUBENuF0fxfWLwq7Vszb-9vWg9rSNJpIfcpuwoETUjjCFGlgPAYj0qmRDgMsKmiIXeQqbGJhdabXE38P0TH8wOqIUuOS4Zd3ZnpPhRc6n8S09DyKX1~edRH3wgsEjw4~pH0CC8yfy2v5Uk-YXklbuJcAPVo64tBrMt7ZNy4TIF-x8THKl-6yXGTMz2stiiooNYL7xaeAzg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                        "Certified":"UA16+"
+                    },
+                    {
+                        "Title":"Pushpa 2- The Rule",
+                        "Year":2024,
+                        "Duration":"3h 21m",
+                        "Rating":3,
+                        "Director":"Sukumar",
+                        "Actors":[
+                            {
+                                "Name": "Allu Arjun",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/allu-arjun-125-03-10-2016-01-55-06.jpg"
+                            }, 
+                            {
+                                "Name": "Rashmika Mandanna",
+                                "Profile":"https://in.bmscdn.com/iedb/artist/images/website/poster/large/rashmika-mandanna-1076783-28-12-2016-12-20-39.jpg"
+                            }, 
+                            {
+                                "Name": "Fahadh Faasil",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/fahadh-faasil-37756-1661702033.jpg"
+                            },
+                            {
+                                "Name": "Jagapati Babu",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jagapati-babu-5809-1720595411.jpg"
+                            }
+                        ],
+                        "genre-ids":[
+                            "G1",
+                            "G2",
+                            "G8",
+                            "G3"],
+                        "Languages":"Telugu (Original), Malayalam, Hindi",
+                        "Description":"A smuggling kingpin faces off against a vengeful rival while expanding his empire. He manipulates politics, makes big deals, and navigates tense confrontations. A public apology leads to a dramatic showdown, ending with challenge.",
+                        "Asset":"https://m.media-amazon.com/images/M/MV5BNGZlNTFlOWMtMzUwNC00ZDdhLTk0MWUtOGZjYzFlOTBmNDdhXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_FMjpg_UX1000_.jpg",
+                        "Trailer":"https://imdb-video.media-imdb.com/vi1721157913/1434659607842-pgv4ql-1731923019170.mp4?Expires=1737623203&Signature=puphQnMQRjyUI5YQAS5FoXogS4vziUN1oHMueSNYHm03vvmExHr1wXmBo7UNB0uhgVSwMtOj5jxn1SaNh36aDmyAqzkWz0pyzqqPPhik5TrZeOkzI3qvMv6pjhiotdpQLgoIUdStNI7i2brAx-NE~ldXOUGsip9MhK~UU3LuyOPe4kb1xCKucTcqlXu982mYXjXDGp1xebxG9cy5GD0vdpks-VZOQlX8G-y4tyf~z8JaFPXS4r0BQ5GL-UDWeJWvsTjpOBRhXQD-I8xep1Bvt1GJxbTxeNRnUbxxtA1mHdksHjAStDqxI-7UJJt4ekOFFGRXTvaEI2Ws3BiKvea1jg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                        "Certified":"UA16+"
+                    },
+                    {
+                        "Title":"Marco",
+                        "Year":2024,
+                        "Duration":"2h 25m",
+                        "Rating":4,
+                        "Director":"Haneef Adeni",
+                        "Actors":[
+                            {
+                                "Name": "Unni Mukundan",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/unni-mukundan-26728-1654236570.jpg"
+                            }, 
+                            {
+                                "Name": "Yukti Thareja",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/yukti-thareja-2029172-1688618076.jpg"
+                            }, 
+                            {
+                                "Name": "Kabir Duhan Singh",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/kabir-duhan-singh-1060607-1663070249.jpg"
+                            },
+                            {
+                                "Name": "Jagadeesh",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jagadeesh-1065631-1722754870.jpg"
+                            }
+                        ],
+                        "genre-ids":[
+                            "G1",
+                            "G2",
+                            "G3"],
+                        "Languages":"Malayalam (Original), Tamil, Telugu, Hindi",
+                        "Description":"Gangster Marco and the powerful Adat family, who dominate Kerala's gold mafia.",
+                        "Asset":"https://m.media-amazon.com/images/M/MV5BNTVmNDVhMDEtNDMyNy00NTY0LWJkNzEtY2E5ZTVlZDRmYWY3XkEyXkFqcGc@._V1_QL75_UX226.5_.jpg",
+                        "Trailer":"https://imdb-video.media-imdb.com/vi3065039129/1434659607842-pgv4ql-1728796572350.mp4?Expires=1737570929&Signature=H03bQ8BDJWRSQ95ajGJ8onzXrknZB~IvRp-PBEnXbyVfSYihU2syJ5wbPXzm1c3e6JFB9a2a~nWOl3fjFZUamnG47jeySkDlTnATSed4q~BWeoo~A7Ct0TU6J4euAFa3PzqLkuoQZVxrqO7~0idqX8KYe8NdqtAYhzGkeM12xTJZkj6s5V3cxX82KkmFJPfS0oLqM4Au~VvABUPfXuTrB4evztRbuThXy88-smGysa040ulDd1y2lt4cd~-Qzq8ur3T6i3kG6PZbdT9COD6SJxjhuUU6qLf19AYrxiVG31vdvAKo8ZBAl3HpVqDweDYuCvWVGEUq4CnqYBuzYIvwNQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                        "Certified":"UA18+"
+                    },
+                    {
+                        "Title":"Kishkindha Kaandam",
+                        "Year":2024,
+                        "Duration":"2h 13m",
+                        "Rating":4,
+                        "Director":"Dinjith Ayyathan",
+                        "Actors":[
+                            {
+                                "Name": "Asif Ali",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/asif-ali-13839-1658319936.jpg"
+                            }, 
+                            {
+                                "Name": "Aparna Balamurali",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/aparna-balamurali-1064392-1671107921.jpg"
+                            }, 
+                            {
+                                "Name": "Vijayaraghavan",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/vijayaraghavan-2469-1678250779.jpg"
+                            },
+                            {
+                                "Name": "Jagadeesh",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jagadeesh-1065631-1722754870.jpg"
+                            },{
+                                "Name": "Shebin Benson",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/shebin-benson-1076155-24-03-2017-13-42-34.jpg"
+                            }
+                        ],
+                        "genre-ids":[
+                            "G1",
+                            "G4",
+                            "G3"],
+                        "Languages":"Malayalam (Original), Tamil, Hindi",
+                        "Description":"Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances",
+                        "Asset":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kishkindha-kaandam-et00410024-1726051976.jpg",
+                        "Trailer":"https://imdb-video.media-imdb.com/vi997049881/1434659607842-pgv4ql-1725959293465.mp4?Expires=1737621818&Signature=VlQw7Qf5zfdgG1qSqsPSJn67Ly5oEWnir-qOJOoh86W39F5WVqixW-vIYvNywRfXGk7zIPUfIRbq1od2-X8bxm1dfhad3nb8bT6PcqUcQEU8uI3qkpiMnYQ6roDHxEQU5w-BZSV6uBPbZUBENuF0fxfWLwq7Vszb-9vWg9rSNJpIfcpuwoETUjjCFGlgPAYj0qmRDgMsKmiIXeQqbGJhdabXE38P0TH8wOqIUuOS4Zd3ZnpPhRc6n8S09DyKX1~edRH3wgsEjw4~pH0CC8yfy2v5Uk-YXklbuJcAPVo64tBrMt7ZNy4TIF-x8THKl-6yXGTMz2stiiooNYL7xaeAzg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                        "Certified":"UA16+"
+                    },
+                    {
+                        "Title":"Pushpa 2- The Rule",
+                        "Year":2024,
+                        "Duration":"3h 21m",
+                        "Rating":3,
+                        "Director":"Sukumar",
+                        "Actors":[
+                            {
+                                "Name": "Allu Arjun",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/allu-arjun-125-03-10-2016-01-55-06.jpg"
+                            }, 
+                            {
+                                "Name": "Rashmika Mandanna",
+                                "Profile":"https://in.bmscdn.com/iedb/artist/images/website/poster/large/rashmika-mandanna-1076783-28-12-2016-12-20-39.jpg"
+                            }, 
+                            {
+                                "Name": "Fahadh Faasil",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/fahadh-faasil-37756-1661702033.jpg"
+                            },
+                            {
+                                "Name": "Jagapati Babu",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jagapati-babu-5809-1720595411.jpg"
+                            }
+                        ],
+                        "genre-ids":[
+                            "G1",
+                            "G2",
+                            "G8",
+                            "G3"],
+                        "Languages":"Telugu (Original), Malayalam, Hindi",
+                        "Description":"A smuggling kingpin faces off against a vengeful rival while expanding his empire. He manipulates politics, makes big deals, and navigates tense confrontations. A public apology leads to a dramatic showdown, ending with challenge.",
+                        "Asset":"https://m.media-amazon.com/images/M/MV5BNGZlNTFlOWMtMzUwNC00ZDdhLTk0MWUtOGZjYzFlOTBmNDdhXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_FMjpg_UX1000_.jpg",
+                        "Trailer":"https://imdb-video.media-imdb.com/vi1721157913/1434659607842-pgv4ql-1731923019170.mp4?Expires=1737623203&Signature=puphQnMQRjyUI5YQAS5FoXogS4vziUN1oHMueSNYHm03vvmExHr1wXmBo7UNB0uhgVSwMtOj5jxn1SaNh36aDmyAqzkWz0pyzqqPPhik5TrZeOkzI3qvMv6pjhiotdpQLgoIUdStNI7i2brAx-NE~ldXOUGsip9MhK~UU3LuyOPe4kb1xCKucTcqlXu982mYXjXDGp1xebxG9cy5GD0vdpks-VZOQlX8G-y4tyf~z8JaFPXS4r0BQ5GL-UDWeJWvsTjpOBRhXQD-I8xep1Bvt1GJxbTxeNRnUbxxtA1mHdksHjAStDqxI-7UJJt4ekOFFGRXTvaEI2Ws3BiKvea1jg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                        "Certified":"UA16+"
+                    },
+                    {
+                        "Title":"Marco",
+                        "Year":2024,
+                        "Duration":"2h 25m",
+                        "Rating":4,
+                        "Director":"Haneef Adeni",
+                        "Actors":[
+                            {
+                                "Name": "Unni Mukundan",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/unni-mukundan-26728-1654236570.jpg"
+                            }, 
+                            {
+                                "Name": "Yukti Thareja",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/yukti-thareja-2029172-1688618076.jpg"
+                            }, 
+                            {
+                                "Name": "Kabir Duhan Singh",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/kabir-duhan-singh-1060607-1663070249.jpg"
+                            },
+                            {
+                                "Name": "Jagadeesh",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jagadeesh-1065631-1722754870.jpg"
+                            }
+                        ],
+                        "genre-ids":[
+                            "G1",
+                            "G2",
+                            "G3"],
+                        "Languages":"Malayalam (Original), Tamil, Telugu, Hindi",
+                        "Description":"Gangster Marco and the powerful Adat family, who dominate Kerala's gold mafia.",
+                        "Asset":"https://m.media-amazon.com/images/M/MV5BNTVmNDVhMDEtNDMyNy00NTY0LWJkNzEtY2E5ZTVlZDRmYWY3XkEyXkFqcGc@._V1_QL75_UX226.5_.jpg",
+                        "Trailer":"https://imdb-video.media-imdb.com/vi3065039129/1434659607842-pgv4ql-1728796572350.mp4?Expires=1737570929&Signature=H03bQ8BDJWRSQ95ajGJ8onzXrknZB~IvRp-PBEnXbyVfSYihU2syJ5wbPXzm1c3e6JFB9a2a~nWOl3fjFZUamnG47jeySkDlTnATSed4q~BWeoo~A7Ct0TU6J4euAFa3PzqLkuoQZVxrqO7~0idqX8KYe8NdqtAYhzGkeM12xTJZkj6s5V3cxX82KkmFJPfS0oLqM4Au~VvABUPfXuTrB4evztRbuThXy88-smGysa040ulDd1y2lt4cd~-Qzq8ur3T6i3kG6PZbdT9COD6SJxjhuUU6qLf19AYrxiVG31vdvAKo8ZBAl3HpVqDweDYuCvWVGEUq4CnqYBuzYIvwNQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                        "Certified":"UA18+"
+                    },
+                    {
+                        "Title":"Kishkindha Kaandam",
+                        "Year":2024,
+                        "Duration":"2h 13m",
+                        "Rating":4,
+                        "Director":"Dinjith Ayyathan",
+                        "Actors":[
+                            {
+                                "Name": "Asif Ali",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/asif-ali-13839-1658319936.jpg"
+                            }, 
+                            {
+                                "Name": "Aparna Balamurali",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/aparna-balamurali-1064392-1671107921.jpg"
+                            }, 
+                            {
+                                "Name": "Vijayaraghavan",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/vijayaraghavan-2469-1678250779.jpg"
+                            },
+                            {
+                                "Name": "Jagadeesh",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jagadeesh-1065631-1722754870.jpg"
+                            },{
+                                "Name": "Shebin Benson",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/shebin-benson-1076155-24-03-2017-13-42-34.jpg"
+                            }
+                        ],
+                        "genre-ids":[
+                            "G1",
+                            "G4",
+                            "G3"],
+                        "Languages":"Malayalam (Original), Tamil, Hindi",
+                        "Description":"Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances",
+                        "Asset":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kishkindha-kaandam-et00410024-1726051976.jpg",
+                        "Trailer":"https://imdb-video.media-imdb.com/vi997049881/1434659607842-pgv4ql-1725959293465.mp4?Expires=1737621818&Signature=VlQw7Qf5zfdgG1qSqsPSJn67Ly5oEWnir-qOJOoh86W39F5WVqixW-vIYvNywRfXGk7zIPUfIRbq1od2-X8bxm1dfhad3nb8bT6PcqUcQEU8uI3qkpiMnYQ6roDHxEQU5w-BZSV6uBPbZUBENuF0fxfWLwq7Vszb-9vWg9rSNJpIfcpuwoETUjjCFGlgPAYj0qmRDgMsKmiIXeQqbGJhdabXE38P0TH8wOqIUuOS4Zd3ZnpPhRc6n8S09DyKX1~edRH3wgsEjw4~pH0CC8yfy2v5Uk-YXklbuJcAPVo64tBrMt7ZNy4TIF-x8THKl-6yXGTMz2stiiooNYL7xaeAzg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                        "Certified":"UA16+"
+                    },
+                    {
+                        "Title":"Home Alone",
+                        "Year":2024,
+                        "Duration":"1h 13m",
+                        "Rating":4,
+                        "Director":"",
+                        "Actors":[
+                            {
+                                "Name": "Shebin Benson",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/shebin-benson-1076155-24-03-2017-13-42-34.jpg"
+                            }
+                        ],
+                    "genre-ids":[
+                            "G1",
+                            "G2",
+                            "G8",
+                            "G3"],
+                        "Languages":"English (Original)",
+                        "Description":"Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances",
+                        "Asset":"",
+                        "Trailer":"",
+                        "Certified":"UA16+"
+                    }
+                    ]
+                },
+                {
+                "id": "C2", 
+                "cateogry_name":"Series",
+                "List":[
+                    {
+                        "Title":"Kishkindha Kaandam",
+                        "Year":2024,
+                        "Duration":"2h 13m",
+                        "Rating":4,
+                        "Director":"Dinjith Ayyathan",
+                        "Actors":[
+                            {
+                                "Name": "Asif Ali",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/asif-ali-13839-1658319936.jpg"
+                            }, 
+                            {
+                                "Name": "Aparna Balamurali",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/aparna-balamurali-1064392-1671107921.jpg"
+                            }, 
+                            {
+                                "Name": "Vijayaraghavan",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/vijayaraghavan-2469-1678250779.jpg"
+                            },
+                            {
+                                "Name": "Jagadeesh",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jagadeesh-1065631-1722754870.jpg"
+                            },{
+                                "Name": "Shebin Benson",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/shebin-benson-1076155-24-03-2017-13-42-34.jpg"
+                            }
+                        ],
+                        "genre-ids":[
+                            "G1",
+                            "G4",
+                            "G3"],
+                        "Languages":"Malayalam (Original), Tamil, Hindi",
+                        "Description":"Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances",
+                        "Asset":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kishkindha-kaandam-et00410024-1726051976.jpg",
+                        "Trailer":"https://imdb-video.media-imdb.com/vi997049881/1434659607842-pgv4ql-1725959293465.mp4?Expires=1737621818&Signature=VlQw7Qf5zfdgG1qSqsPSJn67Ly5oEWnir-qOJOoh86W39F5WVqixW-vIYvNywRfXGk7zIPUfIRbq1od2-X8bxm1dfhad3nb8bT6PcqUcQEU8uI3qkpiMnYQ6roDHxEQU5w-BZSV6uBPbZUBENuF0fxfWLwq7Vszb-9vWg9rSNJpIfcpuwoETUjjCFGlgPAYj0qmRDgMsKmiIXeQqbGJhdabXE38P0TH8wOqIUuOS4Zd3ZnpPhRc6n8S09DyKX1~edRH3wgsEjw4~pH0CC8yfy2v5Uk-YXklbuJcAPVo64tBrMt7ZNy4TIF-x8THKl-6yXGTMz2stiiooNYL7xaeAzg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                        "Certified":"UA16+"
+                    },
+                    {
+                        "Title":"Home Alone",
+                        "Year":2024,
+                        "Duration":"1h 13m",
+                        "Rating":4,
+                        "Director":"",
+                        "Actors":[
+                            {
+                                "Name": "Shebin Benson",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/shebin-benson-1076155-24-03-2017-13-42-34.jpg"
+                            }
+                        ],
+                    "genre-ids":[
+                            "G1",
+                            "G2",
+                            "G8",
+                            "G3"],
+                        "Languages":"English (Original)",
+                        "Description":"Strange events unfold in a monkey-inhabited village, prompting a newlywed pair and forest officials to embark on a mission to uncover the root cause of the peculiar disturbances",
+                        "Asset":"",
+                        "Trailer":"",
+                        "Certified":"UA16+"
+                    }
+                    ]
+                },
+                {
+                "id": "C3", 
+                "cateogry_name":"TV shows",
+            "List":[
+                    {
+                        "Title":"Pushpa 2- The Rule",
+                        "Year":2024,
+                        "Duration":"3h 21m",
+                        "Rating":3,
+                        "Director":"Sukumar",
+                        "Actors":[
+                            {
+                                "Name": "Allu Arjun",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/allu-arjun-125-03-10-2016-01-55-06.jpg"
+                            }, 
+                            {
+                                "Name": "Rashmika Mandanna",
+                                "Profile":"https://in.bmscdn.com/iedb/artist/images/website/poster/large/rashmika-mandanna-1076783-28-12-2016-12-20-39.jpg"
+                            }, 
+                            {
+                                "Name": "Fahadh Faasil",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/fahadh-faasil-37756-1661702033.jpg"
+                            },
+                            {
+                                "Name": "Jagapati Babu",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jagapati-babu-5809-1720595411.jpg"
+                            }
+                        ],
+                        "genre-ids":[
+                            "G1",
+                            "G2",
+                            "G8",
+                            "G3"],
+                        "Languages":"Telugu (Original), Malayalam, Hindi",
+                        "Description":"A smuggling kingpin faces off against a vengeful rival while expanding his empire. He manipulates politics, makes big deals, and navigates tense confrontations. A public apology leads to a dramatic showdown, ending with challenge.",
+                        "Asset":"https://m.media-amazon.com/images/M/MV5BNGZlNTFlOWMtMzUwNC00ZDdhLTk0MWUtOGZjYzFlOTBmNDdhXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_FMjpg_UX1000_.jpg",
+                        "Trailer":"https://imdb-video.media-imdb.com/vi1721157913/1434659607842-pgv4ql-1731923019170.mp4?Expires=1737623203&Signature=puphQnMQRjyUI5YQAS5FoXogS4vziUN1oHMueSNYHm03vvmExHr1wXmBo7UNB0uhgVSwMtOj5jxn1SaNh36aDmyAqzkWz0pyzqqPPhik5TrZeOkzI3qvMv6pjhiotdpQLgoIUdStNI7i2brAx-NE~ldXOUGsip9MhK~UU3LuyOPe4kb1xCKucTcqlXu982mYXjXDGp1xebxG9cy5GD0vdpks-VZOQlX8G-y4tyf~z8JaFPXS4r0BQ5GL-UDWeJWvsTjpOBRhXQD-I8xep1Bvt1GJxbTxeNRnUbxxtA1mHdksHjAStDqxI-7UJJt4ekOFFGRXTvaEI2Ws3BiKvea1jg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                        "Certified":"UA16+"
+                    },
+                    {
+                        "Title":"Marco",
+                        "Year":2024,
+                        "Duration":"2h 25m",
+                        "Rating":4,
+                        "Director":"Haneef Adeni",
+                        "Actors":[
+                            {
+                                "Name": "Unni Mukundan",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/unni-mukundan-26728-1654236570.jpg"
+                            }, 
+                            {
+                                "Name": "Yukti Thareja",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/yukti-thareja-2029172-1688618076.jpg"
+                            }, 
+                            {
+                                "Name": "Kabir Duhan Singh",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/kabir-duhan-singh-1060607-1663070249.jpg"
+                            },
+                            {
+                                "Name": "Jagadeesh",
+                                "Profile":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jagadeesh-1065631-1722754870.jpg"
+                            }
+                        ],
+                        "genre-ids":[
+                            "G1",
+                            "G2",
+                            "G3"],
+                        "Languages":"Malayalam (Original), Tamil, Telugu, Hindi",
+                        "Description":"Gangster Marco and the powerful Adat family, who dominate Kerala's gold mafia.",
+                        "Asset":"https://m.media-amazon.com/images/M/MV5BNTVmNDVhMDEtNDMyNy00NTY0LWJkNzEtY2E5ZTVlZDRmYWY3XkEyXkFqcGc@._V1_QL75_UX226.5_.jpg",
+                        "Trailer":"https://imdb-video.media-imdb.com/vi3065039129/1434659607842-pgv4ql-1728796572350.mp4?Expires=1737570929&Signature=H03bQ8BDJWRSQ95ajGJ8onzXrknZB~IvRp-PBEnXbyVfSYihU2syJ5wbPXzm1c3e6JFB9a2a~nWOl3fjFZUamnG47jeySkDlTnATSed4q~BWeoo~A7Ct0TU6J4euAFa3PzqLkuoQZVxrqO7~0idqX8KYe8NdqtAYhzGkeM12xTJZkj6s5V3cxX82KkmFJPfS0oLqM4Au~VvABUPfXuTrB4evztRbuThXy88-smGysa040ulDd1y2lt4cd~-Qzq8ur3T6i3kG6PZbdT9COD6SJxjhuUU6qLf19AYrxiVG31vdvAKo8ZBAl3HpVqDweDYuCvWVGEUq4CnqYBuzYIvwNQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                        "Certified":"UA18+"
+                    }
+                    ]}
+            ],
+            "Genre":[
+                {"id":"G1", "genre": "Action"},
+                {"id":"G2", "genre": "Crime"},
+                {"id":"G3", "genre": "Thriller"},
+                {"id":"G4", "genre": "Mystery"},
+                {"id":"G5", "genre": "Romance"},
+                {"id":"G6", "genre": "Comedy"},
+                {"id":"G7", "genre": "Fiction"},
+                {"id":"G8", "genre": "Drama"},
+                {}
+            ]
+            
+        }
+    ]
+}
