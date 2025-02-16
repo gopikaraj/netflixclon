@@ -48,7 +48,7 @@ function App() {
     <div className="App">
 
       <Hero/>
-      <div className="flex w-screen h-screen" ref={containerRef}>
+      <div className="flex w-screen h-screen  overflow-x-hidden" ref={containerRef}>
         {
           category.map((cat)=>(
             <div key={cat.ctgID} className="section_panel">
